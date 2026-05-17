@@ -57,7 +57,8 @@ Müşteri faturaları hesaplanır
 Sonuçlar tablo halinde gösterilir
 
 Örnek çıktı:
-[GÖKTUĞÖZDEMİR446726.ipynb - Colab.pdf](https://github.com/user-attachments/files/27901065/GOKTUGOZDEMIR446726.ipynb.-.Colab.pdf)
+<img width="602" height="462" alt="Ekran görüntüsü 2026-05-17 162311" src="https://github.com/user-attachments/assets/a624d60f-c983-4706-bc14-de297979e9cd" />
+
 
 Ahmet → 540 TL
 Ayşe → 720 TL
