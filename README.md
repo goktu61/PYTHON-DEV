@@ -1,3 +1,4 @@
+https://colab.research.google.com/drive/1qlqF4gndgRzN-6PyNCOzA2brqq0pGgyS
 📘 PYTHON-DEV RAPORU
 📌 Proje Hakkında
 
